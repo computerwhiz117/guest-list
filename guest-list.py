@@ -18,3 +18,5 @@ print(f"\n Sorry {cannot_come}, {too_full}, and {sorry} I can't invite you due t
 print(f"\n {guests} you are all still invited to have dinner.")
 del guests[0:2]
 print(f"\n Hello, {guests} you are all invited to have dinner in my house.")
+
+print(len(guests))
